@@ -10,6 +10,8 @@
         "**/環境":true,
         "**/管理.py":true,
         "**/apps.py":true,
+        "**/tests.py":true,
+        "**/admin.py":true,
         "**/migrations":true,
         "**/__*":true
     }

@@ -1,0 +1,15 @@
+얻다 = 'get'
+우편 = 'post'
+놓다 = 'put'
+삭제 = 'delete'
+데이터 = 'data'
+라우팅 = 'urlpatterns'
+견해로 = 'as_view'
+속성을_설정하십시오 = setattr
+속성을_얻으십시오 = getattr
+복사 = 'copy'
+결과 = 'result'
+진실 = True
+오류 = False
+많은 = 'many'
+모두 = 'all'
