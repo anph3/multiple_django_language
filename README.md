@@ -1,1 +1,0 @@
-# multiple_django_language
